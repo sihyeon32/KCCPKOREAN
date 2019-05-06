@@ -63,7 +63,7 @@ RULE_OPTION_ENG_REVOLUTION_LAWRENCE_COUP_EMPIRE_RETURNS_DESC:0 "토머스 에드
 
 FRA_START_ELECTION:0 "@FRA 1936년 노동조합총회"
 RULE_OPTION_FRA_START_ELECTION_RANDOM:0 "무작위화"
-RULE_OPTION_FRA_START_ELECTION_RANDOM_DESC:0 "Opposition in the Bourse Générale du Travail has agreed to a vote of no confidence in Pivert, who has announced that new elections will be brought forward to elect a new Comité."
+RULE_OPTION_FRA_START_ELECTION_RANDOM_DESC:0 "노동 평의회 내 반대자들은 피에르에 대한 불신임안에 표결하는 것에 동의 했으며, 이에 따라 새로운 공안 위원회를 선출하기 위한 선거가 시작 될 것입니다.."
 RULE_OPTION_FRA_START_ELECTION_SYNDICALIST_TRAVAILLEUR:0 "노동파가 과반 차지"
 RULE_OPTION_FRA_START_ELECTION_SYNDICALIST_TRAVAILLEUR_DESC:0 "노동파가 1936년 선거에서 과반을 차지합니다."
 RULE_OPTION_FRA_START_ELECTION_RADICAL_SOCIALIST_ANARCHISTE:0 "아나키스트가 과반 차지"
@@ -75,13 +75,13 @@ RULE_OPTION_FRA_START_ELECTION_TOTALIST_SORELIAN_DESC:0 "소렐리안이 1936년
 
 FRA_JACOBIN_REFORMATION:0 "@FRA 자코뱅 개혁"
 RULE_OPTION_FRA_JACOBIN_REFORMATION_RANDOM:0 "무작위화"
-RULE_OPTION_FRA_JACOBIN_REFORMATION_RANDOM_DESC:0 "After their election success, Jacobin hardliners are demanding that the Syndicalist structures be abolished and the nation should be transformed into a Bolshevik-Leninist state, while others suggest that the Jacobins should continue to operate within the established Syndicalist structures of the BGT and CSP while gradually reforming the state along 'true' Marxist lines."
+RULE_OPTION_FRA_JACOBIN_REFORMATION_RANDOM_DESC:0 "선거에서의 승리 이후, 자코뱅 강경파들은 생디칼리즘 체제를 폐지하고 국가를 볼셰비키-레닌주의적 국가로 전환시켜야 한다고 요구하고 있으며, 반면에 온건파들은 자코뱅이 공안위원회와 노동평의회와 같은 생디칼리즘 체제 내에서 국가를 운영하면서 ‘진정한’ 마르크스주의 노선으로 개혁시켜야 한다고 주장합니다."
 RULE_OPTION_FRA_JACOBIN_REFORMATION_PEACEFUL:0 "평화로운 개혁"
-RULE_OPTION_FRA_JACOBIN_REFORMATION_PEACEFUL_DESC:0 "Syndicalism is reformed from within. \n§RRequires: Jacobins Majority in @FRA Commune Elections"
+RULE_OPTION_FRA_JACOBIN_REFORMATION_PEACEFUL_DESC:0 "생디칼리즘 체제를 내부에서부터 개혁하다.  \n§R조건 : @FRA 코뮌 선거에서 자코뱅의 과반 차지"
 RULE_OPTION_FRA_JACOBIN_REFORMATION_SUCCESS:0 "급진적인 개혁이 성공"
-RULE_OPTION_FRA_JACOBIN_REFORMATION_SUCCESS_DESC:0 "The old system is swept away, and traitors are executed. \n§RRequires: Jacobins Majority in @FRA Commune Elections"
+RULE_OPTION_FRA_JACOBIN_REFORMATION_SUCCESS_DESC:0 "과거의 체제가 사라지고, 반역자들은 처형되다. \n§R조건 : @FRA 코뮌 선거에서 자코뱅의 과반 차지"
 RULE_OPTION_FRA_JACOBIN_REFORMATION_ARMY_MUTINY:0 "가믈랭이 프랑스 공화국에 투항"
-RULE_OPTION_FRA_JACOBIN_REFORMATION_ARMY_MUTINY_DESC:0 "Maurice Gamelin declares for the Fourth Republic after he failed to overthrow the Communists. Both the French Republic and the German Empire decide to take advantage of this chaos. \n§RRequires: Jacobins Majority in @FRA Commune Elections\n& @NFA Nationalist France is a republic§"
+RULE_OPTION_FRA_JACOBIN_REFORMATION_ARMY_MUTINY_DESC:0 "모리스 가믈랭이 공산주의자들을 전복시키는데 실패하고, 제 4공화국에 투항하며, 프랑스 공화국과 독일 제국이 이러한 혼란을 이용 할 수 있게 된다. \n§R조건 : @FRA 코뮌 선거에서 자코뱅의 과반 차지 \n& @NFA 국민 프랑스가 공화국임.§"
 
 POL_THE_GREAT_DEBATE:0 "@POL 대논쟁"
 RULE_OPTION_POL_THE_GREAT_DEBATE_RANDOM:0 "무작위화"
